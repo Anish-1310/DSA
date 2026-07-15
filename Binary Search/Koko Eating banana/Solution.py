@@ -12,4 +12,5 @@ def minEatingSpeed(self, piles, h):
                 r = k-1
             else:
                 l = k+1
+# k = mid
         return res
